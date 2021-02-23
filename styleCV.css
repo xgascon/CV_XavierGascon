@@ -322,6 +322,18 @@ body {
                     padding-left: 0.5em;
                 }
 
+                /* Compétences */
+
+                #savoiretre_parag {
+                    padding-left: 3em;
+                    padding-right: 3em;
+                    display: flex;
+                    flex-direction: column;
+                    flex-wrap: wrap;
+                    text-align: justify;
+                    font-size: 0.9em;
+                }
+
                 /* A propos de moi */
 
                 #banner_propos {
